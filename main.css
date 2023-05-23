@@ -1,0 +1,11 @@
+.max-width {
+    max-width: none;
+}
+
+.footer-image {
+    background-image: url(./assets/footer.png);
+}
+
+.active-color {
+    color: #D5619D;
+}
